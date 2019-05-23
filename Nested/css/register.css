@@ -1,0 +1,51 @@
+
+body{
+    background:#A9D0F5;
+   
+}
+.navbar{
+    background: #D8F6CE !important;
+    border: none !important;
+
+}
+
+.registerFont{
+  background:#E6E6E6;
+  opacity: .88;
+    
+    
+    border-left: 2px solid white;
+    border-right: 2px solid white;
+    border-top:none;
+    border-bottom: none;
+
+    border-radius: 5%;
+
+    
+}
+.bgprivate{
+    background: white;
+    border: 1px solid green !important;
+    
+}
+.bgprivate:hover{
+    background: white;
+    border: 1px solid  #0431B4!important;
+}
+.logueo{
+    border: 1px solid green;
+    border-radius:8%;
+    color: green;
+    background: none;
+    margin-top: 4%;
+
+}
+.logueo:hover{
+    border: 1px solid #2E64FE;
+    border-radius:8%;
+    color:#0431B4;
+    background: none;
+    transition: 1s;
+    
+    
+}
