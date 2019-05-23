@@ -48,7 +48,7 @@
             </button>
         </form>
         <div class="olvido">
-            <a href="#" style="display:none;"    class="olvido">Olvido contraseña</a>
+            <a href="#" style="display:none;" class="olvido">Olvido contraseña</a>
         </div>
         </div>
     </div>
